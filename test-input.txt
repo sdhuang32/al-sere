@@ -1,0 +1,3 @@
+{"name": "Jack", "address": "98 Shirley Street PIMPAMA QLD 4209 AUSTRALIA", "phone": "(07) 4067 0612"}
+{"name": "Mary", "address": "16 Marx Hill Road Brierfield NSW 2454 AUSTRALIA", "phone": "(02) 6721 3412"}
+{"name": "Luke", "address": "1 Bungana Drive Brinkworth SA 5464 AUSTRALIA", "phone": "(08) 8309 8378"}
